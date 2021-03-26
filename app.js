@@ -12,9 +12,9 @@ const PORT = 80;
  */
 
 // Standard values
-let treeTotal = 10;
-let treeGoal = 100;
-let adFactor = 1;
+let treeTotal = 110;
+let treeGoal = 200;
+let adFactor = 0.5;
 
 // TODO: Once this attribute is actually used for something, it needs to be dealt with properly (salted + hashed; forcibly changed on first run)
 let password = "root";
